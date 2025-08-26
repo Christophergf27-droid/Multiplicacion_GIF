@@ -1,0 +1,7 @@
+D:\Fundamento de Algoritmo\semana 2\CalculoRectangulo\CalculoRectangulo\bin\Debug\CalculoRectangulo.exe.config
+D:\Fundamento de Algoritmo\semana 2\CalculoRectangulo\CalculoRectangulo\bin\Debug\CalculoRectangulo.exe
+D:\Fundamento de Algoritmo\semana 2\CalculoRectangulo\CalculoRectangulo\bin\Debug\CalculoRectangulo.pdb
+D:\Fundamento de Algoritmo\semana 2\CalculoRectangulo\CalculoRectangulo\obj\Debug\CalculoRectangulo.csproj.AssemblyReference.cache
+D:\Fundamento de Algoritmo\semana 2\CalculoRectangulo\CalculoRectangulo\obj\Debug\CalculoRectangulo.csproj.CoreCompileInputs.cache
+D:\Fundamento de Algoritmo\semana 2\CalculoRectangulo\CalculoRectangulo\obj\Debug\CalculoRectangulo.exe
+D:\Fundamento de Algoritmo\semana 2\CalculoRectangulo\CalculoRectangulo\obj\Debug\CalculoRectangulo.pdb
